@@ -33,7 +33,7 @@ class HomePage extends StatelessWidget {
                   ),
                   IconButton(
                     icon: const Icon(Icons.delete, color: Colors.red),
-                    onPressed: () => controller.deleteTodoById(todo.id!),
+                    onPressed: () {},
                   ),
                 ],
               ),
@@ -71,13 +71,7 @@ class HomePage extends StatelessWidget {
               child: const Text('Cancel'),
             ),
             ElevatedButton(
-              onPressed: () {
-                final updatedTitle = textController.text.trim();
-                if (updatedTitle.isNotEmpty) {
-                  controller.updateTodoById(todo.id!, updatedTitle);
-                  Navigator.pop(context);
-                }
-              },
+              onPressed: () {},
               child: const Text('Update'),
             ),
           ],

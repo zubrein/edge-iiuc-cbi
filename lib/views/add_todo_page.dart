@@ -22,13 +22,7 @@ class AddTodoPage extends StatelessWidget {
             ),
             const SizedBox(height: 20),
             ElevatedButton(
-              onPressed: () {
-                final title = textController.text.trim();
-                if (title.isNotEmpty) {
-                  controller.addTodo(title);
-                  Get.back();
-                }
-              },
+              onPressed: () {},
               child: const Text('Add Todo'),
             )
           ],
