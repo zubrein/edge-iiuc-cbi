@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1003373317694",
+    "project_id": "data-app-4961e",
+    "storage_bucket": "data-app-4961e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003373317694:android:9373ab56089e74a6228b6f",
+        "android_client_info": {
+          "package_name": "com.zubrein.firebase_realtime_database_training"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdqiavZSipIKfp0JvpG_1SVPpDPso4Hbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
