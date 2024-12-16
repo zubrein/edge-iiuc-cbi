@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="todo_with_sqflite_getx"
+        android:label="firebase_realtime_database_training"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

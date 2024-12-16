@@ -1,4 +1,4 @@
-package com.example.todo_with_sqflite_getx
+package com.zubrein.firebase_realtime_database_training
 
 import io.flutter.embedding.android.FlutterActivity
 
