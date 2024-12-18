@@ -17,7 +17,6 @@ dependencies:
   firebase_database: ^11.2.0
   firebase_auth: ^5.3.3
   get: ^4.6.6
-  shared_preferences:
 
 dev_dependencies:
   flutter_test:
