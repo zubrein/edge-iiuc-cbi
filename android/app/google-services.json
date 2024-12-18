@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "1003373317694",
-    "project_id": "data-app-4961e",
-    "storage_bucket": "data-app-4961e.firebasestorage.app"
+    "project_number": "217388737609",
+    "project_id": "edge-realtime-database",
+    "storage_bucket": "edge-realtime-database.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1003373317694:android:9373ab56089e74a6228b6f",
+        "mobilesdk_app_id": "1:217388737609:android:f9b76a48659e0efb030b98",
         "android_client_info": {
           "package_name": "com.zubrein.firebase_realtime_database_training"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBdqiavZSipIKfp0JvpG_1SVPpDPso4Hbc"
+          "current_key": "AIzaSyCqSLxUuuLNpf-9seh3pC4gDj4Gwkx21r8"
         }
       ],
       "services": {
